@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T05:59:37.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="1eQacs9G3JgbCcgBP8Aw" version="24.7.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-23T10:01:32.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="jl11Lh4slnXK_b82rj0o" version="24.7.1" type="github" pages="6">
   <diagram name="第 1 页" id="-xGEiGHafIDWMiw5CfLv">
     <mxGraphModel dx="2066" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -540,18 +540,6 @@
         </mxCell>
         <mxCell id="mWx5hDMgx2Dgxl-d4mNW-102" value="Bo.F2E" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="mWx5hDMgx2Dgxl-d4mNW-99">
           <mxGeometry x="240" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mWx5hDMgx2Dgxl-d4mNW-105" value="CRM&amp;nbsp;" style="shape=tape;whiteSpace=wrap;html=1;size=0.2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1169" width="120" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="mWx5hDMgx2Dgxl-d4mNW-106" value="Bo.AuthZ" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1354" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mWx5hDMgx2Dgxl-d4mNW-107" value="Bo.CRM" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="318" y="1354" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mWx5hDMgx2Dgxl-d4mNW-108" value="Bo.F2E" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1354" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uEb2hPy4MsJ5k8sXh7UQ-1" value="" style="group;flipV=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="20" y="700" width="860" height="130" as="geometry" />
