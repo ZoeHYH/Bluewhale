@@ -351,18 +351,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wytPQMxdc3aAiX8_xS4U" name="Develop Order">
-    <mxGraphModel dx="837" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1427" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mWx5hDMgx2Dgxl-d4mNW-16" value="Need" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="110" width="260" height="90" as="geometry" />
+          <mxGeometry x="980" y="110" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mWx5hDMgx2Dgxl-d4mNW-26" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Organization will have theme&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="mWx5hDMgx2Dgxl-d4mNW-16" vertex="1">
           <mxGeometry y="30" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mWx5hDMgx2Dgxl-d4mNW-25" value="&lt;span style=&quot;text-align: center;&quot;&gt;Company can CRU&amp;nbsp;&lt;/span&gt;organization" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="mWx5hDMgx2Dgxl-d4mNW-16" vertex="1">
-          <mxGeometry y="60" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mWx5hDMgx2Dgxl-d4mNW-39" value="Need" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="690" width="260" height="120" as="geometry" />
@@ -386,10 +383,16 @@
           <mxGeometry y="60" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mWx5hDMgx2Dgxl-d4mNW-72" value="Need" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="310" width="260" height="50" as="geometry" />
+          <mxGeometry x="970" y="269" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="mWx5hDMgx2Dgxl-d4mNW-73" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Organization can login backoffice&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="mWx5hDMgx2Dgxl-d4mNW-72" vertex="1">
+        <mxCell id="mWx5hDMgx2Dgxl-d4mNW-73" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Organization&#39;s admin can login backoffice&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="mWx5hDMgx2Dgxl-d4mNW-72" vertex="1">
           <mxGeometry y="30" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SMwx6Tc3QH3V0_roN2wU-5" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Organization&#39;s accounting can login backoffice&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mWx5hDMgx2Dgxl-d4mNW-72">
+          <mxGeometry y="50" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SMwx6Tc3QH3V0_roN2wU-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Organization&#39;s CS can login backoffice&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mWx5hDMgx2Dgxl-d4mNW-72">
+          <mxGeometry y="70" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mWx5hDMgx2Dgxl-d4mNW-80" value="" style="group;flipV=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="20" y="110" width="740" height="120" as="geometry" />
@@ -541,7 +544,7 @@
         <mxCell id="sMFta4gp6KuNshNMrOfS-20" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Organization can create SMA in backoffice&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="sMFta4gp6KuNshNMrOfS-19" vertex="1">
           <mxGeometry y="30" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SMwx6Tc3QH3V0_roN2wU-1" value="&lt;span style=&quot;text-align: center;&quot;&gt;SMA&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;will choose points or cash by currency and remark&amp;nbsp;Full name/email/phone&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sMFta4gp6KuNshNMrOfS-19">
+        <mxCell id="SMwx6Tc3QH3V0_roN2wU-1" value="&lt;span style=&quot;text-align: center;&quot;&gt;SMA&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;will choose points or cash by currency&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sMFta4gp6KuNshNMrOfS-19">
           <mxGeometry y="50" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gWZBpWI3eAZiVAebvmAL-1" value="" style="group;flipV=1;" parent="1" vertex="1" connectable="0">
@@ -599,10 +602,16 @@
           <mxGeometry y="120" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gWZBpWI3eAZiVAebvmAL-20" value="Need" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="1195" width="260" height="60" as="geometry" />
+          <mxGeometry x="990" y="1195" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="gWZBpWI3eAZiVAebvmAL-21" value="&lt;span style=&quot;text-align: center;&quot;&gt;Organization can choose to have&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;CRM, either in ASI or BSI&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="gWZBpWI3eAZiVAebvmAL-20" vertex="1">
+        <mxCell id="mWx5hDMgx2Dgxl-d4mNW-25" value="&lt;span style=&quot;text-align: center;&quot;&gt;Company can CRU&amp;nbsp;&lt;/span&gt;organization" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="gWZBpWI3eAZiVAebvmAL-20" vertex="1">
           <mxGeometry y="30" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWZBpWI3eAZiVAebvmAL-21" value="&lt;span style=&quot;text-align: center;&quot;&gt;Organization&#39;s&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;CRM setting&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;can choose to be on or off&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;, either in ASI or BSI&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="gWZBpWI3eAZiVAebvmAL-20" vertex="1">
+          <mxGeometry y="60" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SMwx6Tc3QH3V0_roN2wU-7" value="&lt;span style=&quot;text-align: center;&quot;&gt;Organization will have theme&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="gWZBpWI3eAZiVAebvmAL-20">
+          <mxGeometry y="90" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
